@@ -25,9 +25,9 @@ mine is
 Python 3.6.3
 `
 
-2. Download .whl file from [here].(https://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted)
+2. Download .whl file from [here](https://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted).
 check Twisted section,
-https://github.com/PerryDP/image/blob/master/install_scrapy/Twisted.jpg?raw=true
+
 #### Select version as per your system specs and cp36 for python version 3.6 / or cp35 for python 3.5 and else so on.
 
  3. After downloading get to command prompt and install .whl file to pip
