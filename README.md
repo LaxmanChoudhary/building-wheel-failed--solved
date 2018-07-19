@@ -6,8 +6,9 @@ The process here describes the steps to correct the wheel error while installing
 ### While installing the scrapy in system using
 ```
 $ py -m pip install scrapy
-```
-#### Differs per system
+```  
+#### *Differs per system
+
 
 
 The error displayed is, 
