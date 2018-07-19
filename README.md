@@ -5,8 +5,9 @@ The process here describes the steps to correct the wheel error while installing
 While installing the scrapy in system using
 ```
 $ py -m pip install scrapy
-//Differs per system
 ```
+Differs per system
+
 The error displayed is, 
 `
 "Failed building wheel for twisted"
@@ -21,9 +22,9 @@ $ py -V
 `
 Results depends on your python version :
 mine is
-`
+```
 Python 3.6.3
-`
+```
 
 2. Download .whl file from [here](https://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted).
 check Twisted section,
