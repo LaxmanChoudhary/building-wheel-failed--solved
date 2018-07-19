@@ -40,4 +40,4 @@ check Twisted section,
  $ py -m pip install Path_of_file
  ```
  
- ### After installation you can run yout pip command to install scrapy
+ ### After installation you can run your pip command to install scrapy
