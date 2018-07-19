@@ -21,10 +21,10 @@ The error displayed is,
 
 Get to command prompt on windows
 ### 1. Check your python version
-`
+```
 $ py -V
-`
-Results depends on your python version 
+````
+Results depends on your python version.
 Mine is :
 ```
 Python 3.6.3
@@ -36,8 +36,8 @@ check Twisted section,
 #### Select version as per your system specs and cp36 for python version 3.6 / or cp35 for python 3.5 and else so on.
 
  ### 3. After downloading get to command prompt and install .whl file to pip
- `
+ ```
  $ py -m pip install Path_of_file
- `
+ ```
  
  ### After installation you can run yout pip command to install scrapy
